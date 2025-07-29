@@ -31,8 +31,5 @@ This repository contains the Mobile Sales Dashboard, a tool designed to visualiz
 - Ensure data is updated regularly for accurate insights.
 - Contact the administrator for any data discrepancies or further customization.
 
-## License
-[Add your license here, e.g., MIT License]
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
